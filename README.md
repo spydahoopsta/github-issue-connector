@@ -112,8 +112,8 @@ python cli.py read --owner octo --repo demo
 | Tool | How it was used |
 |------|-----------------|
 | **Claude** | Code generation for `connector.py`, `cli.py`, and `test_connector.py`; drafting this README and `Architecture.MD`. |
-| **ChatGPT** | *(Fill in, e.g. debugging SQLite upsert syntax, reviewing error handling.)* |
-| **Gemini** | *(Fill in, e.g. test-writing ideas, cross-checking GitHub API behavior.)* |
+
+| **Gemini** | Prompt generating, defining steps to take, coming with a gameplan to execute project.|
 
 ## Unfamiliar Problem Solved: Pull Requests in the Issues Endpoint
 
